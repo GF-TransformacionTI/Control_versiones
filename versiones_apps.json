@@ -7,5 +7,15 @@
     "Proj_alianza_bancol": {
         "VersionActual": "1.0.0",
         "VersionMinima": "1.0.0"
+    },
+
+    "Validador_ajustes_financieros": {
+        "VersionActual": "1.0.0",
+        "VersionMinima": "1.0.0"
+    },
+
+    "Control_C15": {
+        "VersionActual": "2.1.1",
+        "VersionMinima": "2.1.1"
     }
 }
